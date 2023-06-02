@@ -1,0 +1,8 @@
+{
+  "contest": 244,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "Treasury fee is not collected in `withdrawEthWithInterest()`",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2023-05-particle-findings/issues/20"
+}
