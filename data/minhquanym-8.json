@@ -1,0 +1,8 @@
+{
+  "contest": 244,
+  "handle": "minhquanym",
+  "risk": "3",
+  "title": "Attacker can spam `addCredit()` function to cause a denial-of-service during an auction",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2023-05-particle-findings/issues/8"
+}
