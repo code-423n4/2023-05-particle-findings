@@ -1,0 +1,8 @@
+{
+  "contest": 244,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "`newLien.lender` can steal NFT that should belong to `oldLien.lender` after refinancing",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2023-05-particle-findings/issues/35"
+}
