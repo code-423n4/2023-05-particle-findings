@@ -1,0 +1,8 @@
+{
+  "contest": 244,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "Changing `_treasuryRate` can cause lender to lose some interest that it is entitled to",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2023-05-particle-findings/issues/30"
+}
