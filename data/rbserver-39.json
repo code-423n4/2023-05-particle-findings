@@ -1,0 +1,8 @@
+{
+  "contest": 244,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "Supplying NFT, which is borrowed from Particle Exchange, to Particle Exchange can cause original lien's borrower to lose such NFT and previously sent `msg.value` even though its position for original lien is not yet insolvent",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2023-05-particle-findings/issues/39"
+}
