@@ -1,0 +1,8 @@
+{
+  "contest": 244,
+  "handle": "minhquanym",
+  "risk": "2",
+  "title": "Function `_execBuyNftFromMarket()` Fails to Check the Actual ETH Balance in the Contract After Executing the Trade",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2023-05-particle-findings/issues/7"
+}
