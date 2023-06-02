@@ -1,0 +1,8 @@
+{
+  "contest": 244,
+  "handle": "rbserver",
+  "risk": "2",
+  "title": "`ParticleExchange.auctionBuyNft` and `ParticleExchange.withdrawEthWithInterest` function calls can be DOS'ed",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2023-05-particle-findings/issues/31"
+}
