@@ -1,0 +1,8 @@
+{
+  "contest": 244,
+  "handle": "minhquanym",
+  "risk": "3",
+  "title": "Attacker can use `buyNftFromMarket()` to buy an NFT from an arbitrary collection",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2023-05-particle-findings/issues/6"
+}
