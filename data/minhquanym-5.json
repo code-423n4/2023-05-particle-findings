@@ -1,0 +1,8 @@
+{
+  "contest": 244,
+  "handle": "minhquanym",
+  "risk": "3",
+  "title": "Borrower can reject receiving ETH thus prevent lender from calling `withdrawEthWithInterest()`",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2023-05-particle-findings/issues/5"
+}
